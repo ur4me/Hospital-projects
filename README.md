@@ -1,2 +1,3 @@
-# hospital
-hospital projects
+# hospital projects
+- Length of stay prediction
+- Path prediction after stroke
